@@ -1,6 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-## NAME : HIRUTHIK SUDHAKAR
-## REGISTER NUMBER : 212223240054
+## NAME : S. Sri Ramsharan
+## REGISTER NUMBER : 212225040424
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
